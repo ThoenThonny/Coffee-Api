@@ -103,14 +103,7 @@
         "description": "Cold brew infused with nitrogen for a creamy, smooth texture",
         "category": "Iced Coffee"
     },
-    {
-        "id": 14,
-        "name": "Frappe",
-        "image": "https://www.ibcsimply.com/wp-content/uploads/2022/07/Coffee-Frappe.jpg",
-        "price": 5.75,
-        "description": "Blended iced coffee with whipped cream and flavor drizzle",
-        "category": "Blended"
-    },
+   
     {
         "id": 15,
         "name": "Vanilla Bean Frappuccino",
